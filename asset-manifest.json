@@ -1,31 +1,32 @@
 {
   "files": {
-    "main.css": "./static/css/main.b9f0a4f4.chunk.css",
-    "main.js": "./static/js/main.cf5d41c1.chunk.js",
-    "main.js.map": "./static/js/main.cf5d41c1.chunk.js.map",
+    "main.css": "./static/css/main.d7ce6778.chunk.css",
+    "main.js": "./static/js/main.73e3f47b.chunk.js",
+    "main.js.map": "./static/js/main.73e3f47b.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
     "runtime-main.js.map": "./static/js/runtime-main.330dba63.js.map",
     "static/css/2.5c873eaf.chunk.css": "./static/css/2.5c873eaf.chunk.css",
-    "static/js/2.f66935f7.chunk.js": "./static/js/2.f66935f7.chunk.js",
-    "static/js/2.f66935f7.chunk.js.map": "./static/js/2.f66935f7.chunk.js.map",
+    "static/js/2.0599400d.chunk.js": "./static/js/2.0599400d.chunk.js",
+    "static/js/2.0599400d.chunk.js.map": "./static/js/2.0599400d.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.5c873eaf.chunk.css.map": "./static/css/2.5c873eaf.chunk.css.map",
-    "static/css/main.b9f0a4f4.chunk.css.map": "./static/css/main.b9f0a4f4.chunk.css.map",
-    "static/js/2.f66935f7.chunk.js.LICENSE.txt": "./static/js/2.f66935f7.chunk.js.LICENSE.txt",
-    "static/media/ProductSlider.scss": "./static/media/ArrowLeft.c0d01b22.svg",
-    "static/media/Dropdown.scss": "./static/media/ArrowRight.4756c064.svg",
+    "static/css/main.d7ce6778.chunk.css.map": "./static/css/main.d7ce6778.chunk.css.map",
+    "static/js/2.0599400d.chunk.js.LICENSE.txt": "./static/js/2.0599400d.chunk.js.LICENSE.txt",
+    "static/media/PaginationBlock.scss": "./static/media/ArrowRight.4756c064.svg",
     "static/media/ItemCardPage.scss": "./static/media/ButtonBack.960106b2.svg",
-    "static/media/CartItem.scss": "./static/media/Plus.dea15724.svg",
+    "static/media/CartTotalPrice.scss": "./static/media/DeleteButtonHover.3ea864f5.svg",
     "static/media/FavoriteButton.scss": "./static/media/Favorite__selected.35ef0548.svg",
+    "static/media/CartItem.scss": "./static/media/Plus.dea15724.svg",
     "static/media/index.scss": "./static/media/Mont-SemiBold.8979d71a.otf",
     "static/media/PagePath.scss": "./static/media/PathRight.f3e02e62.svg",
+    "static/media/Search.scss": "./static/media/Search.66a1fd86.svg",
     "static/media/InfiniteSlider.scss": "./static/media/slick.c94f7671.ttf"
   },
   "entrypoints": [
     "static/js/runtime-main.330dba63.js",
     "static/css/2.5c873eaf.chunk.css",
-    "static/js/2.f66935f7.chunk.js",
-    "static/css/main.b9f0a4f4.chunk.css",
-    "static/js/main.cf5d41c1.chunk.js"
+    "static/js/2.0599400d.chunk.js",
+    "static/css/main.d7ce6778.chunk.css",
+    "static/js/main.73e3f47b.chunk.js"
   ]
 }
