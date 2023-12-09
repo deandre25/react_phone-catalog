@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.9f4507ba.chunk.css",
+    "main.css": "./static/css/main.5ee05037.chunk.css",
     "main.js": "./static/js/main.3a231393.chunk.js",
     "main.js.map": "./static/js/main.3a231393.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.330dba63.js",
@@ -10,7 +10,7 @@
     "static/js/2.0599400d.chunk.js.map": "./static/js/2.0599400d.chunk.js.map",
     "index.html": "./index.html",
     "static/css/2.5c873eaf.chunk.css.map": "./static/css/2.5c873eaf.chunk.css.map",
-    "static/css/main.9f4507ba.chunk.css.map": "./static/css/main.9f4507ba.chunk.css.map",
+    "static/css/main.5ee05037.chunk.css.map": "./static/css/main.5ee05037.chunk.css.map",
     "static/js/2.0599400d.chunk.js.LICENSE.txt": "./static/js/2.0599400d.chunk.js.LICENSE.txt",
     "static/media/PaginationBlock.scss": "./static/media/ArrowRight.4756c064.svg",
     "static/media/ItemCardPage.scss": "./static/media/ButtonBack.960106b2.svg",
@@ -26,7 +26,7 @@
     "static/js/runtime-main.330dba63.js",
     "static/css/2.5c873eaf.chunk.css",
     "static/js/2.0599400d.chunk.js",
-    "static/css/main.9f4507ba.chunk.css",
+    "static/css/main.5ee05037.chunk.css",
     "static/js/main.3a231393.chunk.js"
   ]
 }
